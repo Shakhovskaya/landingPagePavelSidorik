@@ -22,7 +22,7 @@
         <path id="drop_14" fill="#333333" opacity="0" d="M375.45 50.257c-10.18,0.476 -14.197,-10.09 -10.747,-17.718 2.351,-5.198 8.17,-9.031 17.871,-7.076 9.822,1.98 10.024,5.853 12.741,16.76 1.522,6.111 -2.924,10.312 -8.717,12.565 -8.509,3.309 -19.925,2.414 -19.594,-2.809 0.066,-1.05 9.502,0.945 8.446,-1.722z"/>
         <path id="drop_15" fill="#333333" opacity="0" d="M275.234 212.204c-11.262,0.527 -14.982,-12.461 -9.393,-20.034 2.906,-3.936 8.329,-6.41 16.517,-4.76 9.822,1.98 10.024,5.853 12.74,16.761 1.815,7.285 -4.855,11.857 -12.175,13.648 -7.839,1.917 -16.424,0.647 -16.136,-3.892 0.067,-1.051 9.502,0.944 8.447,-1.723z"/>
 
-        <animate xlink:href="#drop_1" attributeName="opacity" dur="0.1s" repeatCount="1" from="0" to="1" id="drop_1_anim" fill="freeze" begin="2s"/>
+        <animate xlink:href="#drop_1" attributeName="opacity" dur="0.1s" repeatCount="1" from="0" to="1" id="drop_1_anim" fill="freeze" begin="1s"/>
         <animate xlink:href="#drop_2" attributeName="opacity" dur="0.1s" repeatCount="1" from="0" to="1" id="drop_2_anim" fill="freeze" begin="drop_1_anim.end + 0s"/>
         <animate xlink:href="#drop_3" attributeName="opacity" dur="0.1s" repeatCount="1" from="0" to="1" id="drop_3_anim" fill="freeze" begin="drop_2_anim.end + 0s"/>
         <animate xlink:href="#drop_4" attributeName="opacity" dur="0.1s" repeatCount="1" from="0" to="1" id="drop_4_anim" fill="freeze" begin="drop_3_anim.end + 0.3s"/>

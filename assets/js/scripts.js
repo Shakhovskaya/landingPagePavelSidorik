@@ -1,7 +1,10 @@
 $(window).load(function() {
     setTimeout(function() {
         $('.preloader').fadeOut('slow');
-    }, 100); 
+        $('.header .hexal-animation').addClass("hexal-animation-svg");
+        $('.header .head-image .title-animation h1').addClass("animation");
+        $('.header .head-image .subtitle-animation').addClass("animation");
+    }, 1000); 
 });
 
 $(document).ready(function(){
