@@ -428,7 +428,7 @@ Slider Styles
 
 /*
 Container 1
-
+*/
 .slider .portfolio .container1 .hexagon-1{
     background-image: url("../galery/image1.jpg");
 }
@@ -471,7 +471,7 @@ Container 1
 
 /*
 Container 2
-
+*/
 .slider .portfolio .container2 .hexagon-1{
     background-image: url("../galery/image14.jpg");
 }
@@ -514,7 +514,7 @@ Container 2
 
 /*
 Container 3
-
+*/
 .slider .portfolio .container3 .hexagon-1{
     background-image: url("../galery/image27.jpg");
 }
@@ -557,7 +557,7 @@ Container 3
 
 /*
 Container 4
-
+*/
 .slider .portfolio .container4 .hexagon-1{
     background-image: url("../galery/image40.jpg");
 }
@@ -600,7 +600,7 @@ Container 4
 
 /*
 Container 5
-
+*/
 .slider .portfolio .container5 .hexagon-1{
     background-image: url("../galery/bathroom.jpg");
 }
@@ -642,7 +642,7 @@ Container 5
 }
 
 
-
+/*
 Article Styles
 */
 .article{
