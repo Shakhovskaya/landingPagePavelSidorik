@@ -308,11 +308,11 @@ Slider Styles
 .slider .portfolio .container{
     margin: 77px -25px 0;
     width: 1010px;
-    height: auto;
+    height: 550px;
     opacity: 0;
 	position: absolute;
     z-index: 0;
-    transform: scale(1.5);
+    transform: scale(1.03);
     transition: transform ease-in-out .5s, opacity ease-in-out .5s;
 }
 
@@ -402,6 +402,11 @@ Slider Styles
 .slider .portfolio .grey-layer:hover{
     opacity: 0;
 }
+.slider .portfolio .hex-layer-3 a {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
 
 .slider .portfolio .border-container{
     width: 11px;
@@ -430,215 +435,215 @@ Slider Styles
 Container 1
 */
 .slider .portfolio .container1 .hexagon-1{
-    background-image: url("../galery/image1.jpg");
+    background-image: url("../image/galery/image1.jpg");
 }
 .slider .portfolio .container1 .hexagon-2{
-    background-image: url("../galery/image2.jpg");
+    background-image: url("../image/galery/image2.jpg");
 }
 .slider .portfolio .container1 .hexagon-3{
-    background-image: url("../galery/image3.jpg");
+    background-image: url("../image/galery/image3.jpg");
 }
 .slider .portfolio .container1 .hexagon-4{
-    background-image: url("../galery/image4.jpg");
+    background-image: url("../image/galery/image4.jpg");
 }
 .slider .portfolio .container1 .hexagon-5{
-    background-image: url("../galery/image5.jpg");
+    background-image: url("../image/galery/image5.jpg");
 }
 .slider .portfolio .container1 .hexagon-6{
-    background-image: url("../galery/image6.jpg");
+    background-image: url("../image/galery/image6.jpg");
 }
 .slider .portfolio .container1 .hexagon-7{
-    background-image: url("../galery/image7.jpg");
+    background-image: url("../image/galery/image7.jpg");
 }
 .slider .portfolio .container1 .hexagon-8{
-    background-image: url("../galery/image8.jpg");
+    background-image: url("../image/galery/image8.jpg");
 }
 .slider .portfolio .container1 .hexagon-9{
-    background-image: url("../galery/image9.jpg");
+    background-image: url("../image/galery/image9.jpg");
 }
 .slider .portfolio .container1 .hexagon-10{
-    background-image: url("../galery/image10.jpg");
+    background-image: url("../image/galery/image10.jpg");
 }
 .slider .portfolio .container1 .hexagon-11{
-    background-image: url("../galery/image11.jpg");
+    background-image: url("../image/galery/image11.jpg");
 }
 .slider .portfolio .container1 .hexagon-12{
-    background-image: url("../galery/image12.jpg");
+    background-image: url("../image/galery/image12.jpg");
 }
 .slider .portfolio .container1 .hexagon-13{
-    background-image: url("../galery/image13.jpg");
+    background-image: url("../image/galery/image13.jpg");
 }
 
 /*
 Container 2
 */
 .slider .portfolio .container2 .hexagon-1{
-    background-image: url("../galery/image14.jpg");
+    background-image: url("../image/galery/image14.jpg");
 }
 .slider .portfolio .container2 .hexagon-2{
-    background-image: url("../galery/image15.jpg");
+    background-image: url("../image/galery/image15.jpg");
 }
 .slider .portfolio .container2 .hexagon-3{
-    background-image: url("../galery/image16.jpg");
+    background-image: url("../image/galery/image16.jpg");
 }
 .slider .portfolio .container2 .hexagon-4{
-    background-image: url("../galery/image17.jpg");
+    background-image: url("../image/galery/image17.jpg");
 }
 .slider .portfolio .container2 .hexagon-5{
-    background-image: url("../galery/image18.jpg");
+    background-image: url("../image/galery/image18.jpg");
 }
 .slider .portfolio .container2 .hexagon-6{
-    background-image: url("../galery/image19.jpg");
+    background-image: url("../image/galery/image19.jpg");
 }
 .slider .portfolio .container2 .hexagon-7{
-    background-image: url("../galery/image20.jpg");
+    background-image: url("../image/galery/image20.jpg");
 }
 .slider .portfolio .container2 .hexagon-8{
-    background-image: url("../galery/image21.jpg");
+    background-image: url("../image/galery/image21.jpg");
 }
 .slider .portfolio .container2 .hexagon-9{
-    background-image: url("../galery/image22.jpg");
+    background-image: url("../image/galery/image22.jpg");
 }
 .slider .portfolio .container2 .hexagon-10{
-    background-image: url("../galery/image23.jpg");
+    background-image: url("../image/galery/image23.jpg");
 }
 .slider .portfolio .container2 .hexagon-11{
-    background-image: url("../galery/image24.jpg");
+    background-image: url("../image/galery/image24.jpg");
 }
 .slider .portfolio .container2 .hexagon-12{
-    background-image: url("../galery/image25.jpg");
+    background-image: url("../image/galery/image25.jpg");
 }
 .slider .portfolio .container2 .hexagon-13{
-    background-image: url("../galery/image26.jpg");
+    background-image: url("../image/galery/image26.jpg");
 }
 
 /*
 Container 3
 */
 .slider .portfolio .container3 .hexagon-1{
-    background-image: url("../galery/image27.jpg");
+    background-image: url("../image/galery/image27.jpg");
 }
 .slider .portfolio .container3 .hexagon-2{
-    background-image: url("../galery/image28.jpg");
+    background-image: url("../image/galery/image28.jpg");
 }
 .slider .portfolio .container3 .hexagon-3{
-    background-image: url("../galery/image29.jpg");
+    background-image: url("../image/galery/image29.jpg");
 }
 .slider .portfolio .container3 .hexagon-4{
-    background-image: url("../galery/image30.jpg");
+    background-image: url("../image/galery/image30.jpg");
 }
 .slider .portfolio .container3 .hexagon-5{
-    background-image: url("../galery/image31.jpg");
+    background-image: url("../image/galery/image31.jpg");
 }
 .slider .portfolio .container3 .hexagon-6{
-    background-image: url("../galery/image32.jpg");
+    background-image: url("../image/galery/image32.jpg");
 }
 .slider .portfolio .container3 .hexagon-7{
-    background-image: url("../galery/image33.jpg");
+    background-image: url("../image/galery/image33.jpg");
 }
 .slider .portfolio .container3 .hexagon-8{
-    background-image: url("../galery/image34.jpg");
+    background-image: url("../image/galery/image34.jpg");
 }
 .slider .portfolio .container3 .hexagon-9{
-    background-image: url("../galery/image35.jpg");
+    background-image: url("../image/galery/image35.jpg");
 }
 .slider .portfolio .container3 .hexagon-10{
-    background-image: url("../galery/image36.jpg");
+    background-image: url("../image/galery/image36.jpg");
 }
 .slider .portfolio .container3 .hexagon-11{
-    background-image: url("../galery/image37.jpg");
+    background-image: url("../image/galery/image37.jpg");
 }
 .slider .portfolio .container3 .hexagon-12{
-    background-image: url("../galery/image38.jpg");
+    background-image: url("../image/galery/image38.jpg");
 }
 .slider .portfolio .container3 .hexagon-13{
-    background-image: url("../galery/image39.jpg");
+    background-image: url("../image/galery/image39.jpg");
 }
 
 /*
 Container 4
 */
 .slider .portfolio .container4 .hexagon-1{
-    background-image: url("../galery/image40.jpg");
+    background-image: url("../image/galery/image40.jpg");
 }
 .slider .portfolio .container4 .hexagon-2{
-    background-image: url("../galery/image41.jpg");
+    background-image: url("../image/galery/image41.jpg");
 }
 .slider .portfolio .container4 .hexagon-3{
-    background-image: url("../galery/image42.jpg");
+    background-image: url("../image/galery/image42.jpg");
 }
 .slider .portfolio .container4 .hexagon-4{
-    background-image: url("../galery/image43.jpg");
+    background-image: url("../image/galery/image43.jpg");
 }
 .slider .portfolio .container4 .hexagon-5{
-    background-image: url("../galery/image44.jpg");
+    background-image: url("../image/galery/image44.jpg");
 }
 .slider .portfolio .container4 .hexagon-6{
-    background-image: url("../galery/image45.jpg");
+    background-image: url("../image/galery/image45.jpg");
 }
 .slider .portfolio .container4 .hexagon-7{
-    background-image: url("../galery/image46.jpg");
+    background-image: url("../image/galery/image46.jpg");
 }
 .slider .portfolio .container4 .hexagon-8{
-    background-image: url("../galery/image47.jpg");
+    background-image: url("../image/galery/image47.jpg");
 }
 .slider .portfolio .container4 .hexagon-9{
-    background-image: url("../galery/image48.jpg");
+    background-image: url("../image/galery/image48.jpg");
 }
 .slider .portfolio .container4 .hexagon-10{
-    background-image: url("../galery/image49.jpg");
+    background-image: url("../image/galery/image49.jpg");
 }
 .slider .portfolio .container4 .hexagon-11{
-    background-image: url("../galery/image50.jpg");
+    background-image: url("../image/galery/image50.jpg");
 }
 .slider .portfolio .container4 .hexagon-12{
-    background-image: url("../galery/image51.jpg");
+    background-image: url("../image/galery/image51.jpg");
 }
 .slider .portfolio .container4 .hexagon-13{
-    background-image: url("../galery/image52.jpg");
+    background-image: url("../image/galery/image52.jpg");
 }
 
 /*
 Container 5
 */
 .slider .portfolio .container5 .hexagon-1{
-    background-image: url("../galery/bathroom.jpg");
+    background-image: url("../image/galery/bathroom.jpg");
 }
 .slider .portfolio .container5 .hexagon-2{
-    background-image: url("../galery/bathroom1.jpg");
+    background-image: url("../image/galery/bathroom1.jpg");
 }
 .slider .portfolio .container5 .hexagon-3{
-    background-image: url("../galery/bedroom.jpg");
+    background-image: url("../image/galery/bedroom.jpg");
 }
 .slider .portfolio .container5 .hexagon-4{
-    background-image: url("../galery/kitchen.jpg");
+    background-image: url("../image/galery/kitchen.jpg");
 }
 .slider .portfolio .container5 .hexagon-5{
-    background-image: url("../galery/kitchen1.jpg");
+    background-image: url("../image/galery/kitchen1.jpg");
 }
 .slider .portfolio .container5 .hexagon-6{
-    background-image: url("../galery/kitchen2.jpg");
+    background-image: url("../image/galery/kitchen2.jpg");
 }
 .slider .portfolio .container5 .hexagon-7{
-    background-image: url("../galery/kitchen3.jpg");
+    background-image: url("../image/galery/kitchen3.jpg");
 }
 .slider .portfolio .container5 .hexagon-8{
-    background-image: url("../galery/living.jpg");
+    background-image: url("../image/galery/living.jpg");
 }
 .slider .portfolio .container5 .hexagon-9{
-    background-image: url("../galery/livingroom.jpg");
+    background-image: url("../image/galery/livingroom.jpg");
 }
 .slider .portfolio .container5 .hexagon-10{
-    background-image: url("../galery/room1.jpg");
+    background-image: url("../image/galery/room1.jpg");
 }
 .slider .portfolio .container5 .hexagon-11{
-    background-image: url("../galery/room2.jpg");
+    background-image: url("../image/galery/room2.jpg");
 }
 .slider .portfolio .container5 .hexagon-12{
-    background-image: url("../galery/room3.jpg");
+    background-image: url("../image/galery/room3.jpg");
 }
 .slider .portfolio .container5 .hexagon-13{
-    background-image: url("../galery/children.jpg");
+    background-image: url("../image/galery/children.jpg");
 }
 
 
